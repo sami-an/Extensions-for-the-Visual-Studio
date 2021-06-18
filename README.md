@@ -1,6 +1,6 @@
 # Extensions-for-the-Visual-Studio
 
-1- "ext install abusaidm.html-snippets"
+1- `ext install abusaidm.html-snippets`
 
 2- ext install ecmel.vscode-html-css
 
